@@ -4,6 +4,6 @@
 
 ## Catchphrase Visualization For 16 MBTI Types
 
-![](/Users/spidey/Desktop/Coding/Python/CS5426_MBTI/images/Word_Freq.jpg)
+![word_freq](images/Word_Freq.jpg)
 
-![](/Users/spidey/Desktop/Coding/Python/CS5426_MBTI/images/Word_Cloud.jpg)
+![word_cloud](images/Word_Cloud.jpg)
